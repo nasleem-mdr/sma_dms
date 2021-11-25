@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nasleem-mdr/sma_dms.git" target="_blank"><img src="public/images/logo-dms.svg" width="400"></a></p>
+<p align="center"><a href="https://github.com/nasleem-mdr/sma_dms.git" target="_blank"><img src="https://github.com/nasleem-mdr/sma_dms/public/images/logo-dms.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
