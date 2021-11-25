@@ -13,7 +13,7 @@ DMS is Document Managemen System application based on Laravel Framework.
 
 ## Learning DMS
 
-Comming Soon
+Comming Soon go kong
 
 ## DMS Sponsors
 
