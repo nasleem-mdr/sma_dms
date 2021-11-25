@@ -14,15 +14,28 @@ DMS is Document Managemen System application based on Laravel Framework.
 ## How to Install
 
 ### Via Composser
-1. composer create-project dms-nasleem/laravel
-2. npm install
-3. npm run dev / npm run watch
-4. php artisan migrate
-5. php artisan serve
+1. ```sh composer create-project dms-nasleem/laravel your-app
+2. ```sh cd your-app
+2. ```sh npm install
+3. ```sh npm run dev / npm run watch
+4. ```sh php artisan migrate
+5. ```sh php artisan serve
 
 ### Via Clone github
+1. git clone https://github.com/nasleem-mdr/sma_dms.git your-app
+2. cd your-app
+3. install breeze
+    - composer require laravel/breeze --dev
+    - php artisan breeze:install blade
+    - composer require nasleem/dms-laravel-breeze --dev
+    - php artisan dms-breeze:replace blade
+    - php artisan migrate
+    - npm install && npm run dev
+    - php artisan serve
 
-## DMS Sponsors
+## DMS Documentation
+### Setup
+    - Register 
 
 ## Contributing
 
