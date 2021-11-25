@@ -14,6 +14,11 @@ DMS is Document Managemen System application based on Laravel Framework.
 ## How to Install
 
 ### Via Composser
+1. composer create-project dms-nasleem/laravel
+2. npm install
+3. npm run dev / npm run watch
+4. php artisan migrate
+5. php artisan serve
 
 ### Via Clone github
 
